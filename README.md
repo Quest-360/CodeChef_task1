@@ -1,6 +1,7 @@
 # CodeChef_task1
 This app is made for codechef task 1. 
 An apk of the app is provided and all the project files are available in the "CodeChefApp_TaskAniruddha" folder.
+The mp4 screen recording of the app is also included in the repo.
 App screenshots:-
 
 
