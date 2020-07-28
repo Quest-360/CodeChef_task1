@@ -1,6 +1,9 @@
 # CodeChef_task1
 This app is made for codechef task 1. 
 An apk of the app is provided and all the project files are available in the "CodeChefApp_TaskAniruddha" folder.
-Below is a gif of the app working:
-<div style="width:232px;max-width:100%;"><div style="height:0;padding-bottom:215.52%;position:relative;"><iframe width="232" height="500" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://drive.google.com/file/d/1V_GE6kqCQgQjxNpBAIhzr-tk20-WZaOB/view?usp=sharing"></iframe></div><p><a href="https://drive.google.com/file/d/1V_GE6kqCQgQjxNpBAIhzr-tk20-WZaOB/view?usp=sharing"></a></p></div>
+App screenshots:-
+
+![Annotation 2020-07-29 022732](https://user-images.githubusercontent.com/60058605/88723212-16e14780-d146-11ea-9c7d-b149e0a8ad39.jpg)
+
+![Annotation 2020-07-29 022633](https://user-images.githubusercontent.com/60058605/88723244-25c7fa00-d146-11ea-8e1b-3d01cf24e7fd.jpg)
 
